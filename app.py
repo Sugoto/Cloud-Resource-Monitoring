@@ -15,6 +15,6 @@ def index():
         "index.html", cpu_metric=cpu_metric, mem_metric=mem_metric, message=Message
     )
 
-
+# Main method
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0")
