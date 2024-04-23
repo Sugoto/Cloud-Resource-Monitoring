@@ -29,19 +29,11 @@ Before you begin, make sure you have the following prerequisites:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Sugoto/cloud-resource-monitoring.git
+   git clone https://github.com/Sugoto/cloud-resource-monitoring
    ```
 
-2. Build and deploy the application using your Kubernetes cluster.
+2. Install requirements then run the Flask server
 
    ```sh
-   kubectl apply -f deployment.yaml
+   python app.py
    ```
-
-3. Access the monitoring dashboard.
-
-## Usage
-
-- Provide instructions on how to use the application.
-- Include code samples and configuration details.
-- Explain how to interpret the monitoring data.
