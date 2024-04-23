@@ -7,6 +7,8 @@
 
 Monitor and manage server resource utilization in the cloud with our Cloud Resource Monitoring Application. This application is designed to accurately measure the system resource usage of a server, leveraging Docker, Kubernetes, Amazon ECR, and Amazon EKS.
 
+![image](https://github.com/Sugoto/Cloud-Resource-Monitoring/assets/60142374/70d28fde-acb7-4ec1-b470-67fe37d232ec)
+
 ## Features
 
 - 🐳 Utilizes Docker for containerization to ensure consistency and portability.
